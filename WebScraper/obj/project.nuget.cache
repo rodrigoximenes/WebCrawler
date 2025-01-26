@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6A2snuhxtxY=",
+  "dgSpecHash": "y3koTBvkdwQ=",
   "success": true,
   "projectFilePath": "D:\\Projetos\\WebCrawler\\WebScraper\\WebScraper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
   "logs": []
 }
